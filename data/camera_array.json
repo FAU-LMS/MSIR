@@ -1,0 +1,92 @@
+{
+	"Camera 0":
+	{
+		"X": 40,
+		"Y": 40,
+		"image_width": 1600,
+		"image_height": 1200,
+		"sensor_width": 7.2,
+		"sensor_height": 5.4,
+		"focal_length": 16
+	},
+	"Camera 1":
+	{
+		"X": 0,
+		"Y": 40,
+		"image_width": 1600,
+		"image_height": 1200,
+		"sensor_width": 7.2,
+		"sensor_height": 5.4,
+		"focal_length": 16
+	},
+	"Camera 2":
+	{
+		"X": -40,
+		"Y": 40,
+		"image_width": 1600,
+		"image_height": 1200,
+		"sensor_width": 7.2,
+		"sensor_height": 5.4,
+		"focal_length": 16
+	},
+	"Camera 3":
+	{
+		"X": 40,
+		"Y": 0,
+		"image_width": 1600,
+		"image_height": 1200,
+		"sensor_width": 7.2,
+		"sensor_height": 5.4,
+		"focal_length": 16
+	},
+	"Camera 4":
+	{
+		"X": 0,
+		"Y": 0,
+		"image_width": 1600,
+		"image_height": 1200,
+		"sensor_width": 7.2,
+		"sensor_height": 5.4,
+		"focal_length": 16
+	},
+	"Camera 5":
+	{
+		"X": -40,
+		"Y": 0,
+		"image_width": 1600,
+		"image_height": 1200,
+		"sensor_width": 7.2,
+		"sensor_height": 5.4,
+		"focal_length": 16
+	},
+	"Camera 6":
+	{
+		"X": 40,
+		"Y": -40,
+		"image_width": 1600,
+		"image_height": 1200,
+		"sensor_width": 7.2,
+		"sensor_height": 5.4,
+		"focal_length": 16
+	},
+	"Camera 7":
+	{
+		"X": 0,
+		"Y": -40,
+		"image_width": 1600,
+		"image_height": 1200,
+		"sensor_width": 7.2,
+		"sensor_height": 5.4,
+		"focal_length": 16
+	},
+	"Camera 8":
+	{
+		"X": -40,
+		"Y": -40,
+		"image_width": 1600,
+		"image_height": 1200,
+		"sensor_width": 7.2,
+		"sensor_height": 5.4,
+		"focal_length": 16
+	}
+}
